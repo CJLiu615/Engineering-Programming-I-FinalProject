@@ -95,7 +95,8 @@ For building on Unix systems
 
 └── README.md
 
-▶️ How to Run
+**▶️ How to Run**
+
 Compile:
 
 bash
