@@ -11,6 +11,8 @@ The neural network is trained to perform the Exclusive OR (XOR) function, and su
 * Simulates feedforward and backpropagation learning
 
 * Dynamically configurable topologies: e.g., {2, 4, 1}, {2, 4, 4, 1}, etc.
+![image](https://github.com/user-attachments/assets/51817947-2db9-43ed-b245-f668c3353ecc)
+
 
 * Visual performance metrics using Gnuplot
 
