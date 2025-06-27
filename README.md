@@ -65,6 +65,10 @@ Performance trends are graphed using Gnuplot and include:
 
 * Training error vs. epoch
 
+![image](https://github.com/user-attachments/assets/aa676db6-7590-4576-89f2-d353336f5e47)
+
+![image](https://github.com/user-attachments/assets/5a1a3f5c-1812-4dcd-b5cb-17d19a29e65c)
+
 * Comparison across different topologies
 
 * Effects of increasing hidden layers or epochs
