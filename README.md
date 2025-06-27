@@ -96,32 +96,31 @@ For building on Unix systems
 
 **📊 Sample Output (for XOR)**
 
-Input A	Input B	Target	Output
-0	0	0	0.01
-1	0	1	0.94
-0	1	1	0.92
-1	1	0	0.07
+![image](https://github.com/user-attachments/assets/12ecefc3-4bd5-4c54-adb2-7e570a1d8546)
 
-🔍 Observations
-Increased epochs → lower average error and higher accuracy
 
-Too many hidden layers → longer training and risk of plateau
+**🔍 Observations**
 
-Random weight initialization → variability in results across runs
+* Increased epochs → lower average error and higher accuracy
 
-🚀 Future Work
-Standardize initial inputs and weights for reproducibility
+* Too many hidden layers → longer training and risk of plateau
 
-Add runtime tracking for performance evaluation
+* Random weight initialization → variability in results across runs
 
-Extend to multi-class classification problems
+**🚀 Future Work**
 
-Implement alternate activation functions (ReLU, Sigmoid)
+* Standardize initial inputs and weights for reproducibility
 
-👨‍💻 Authors
+* Add runtime tracking for performance evaluation
+
+* Extend to multi-class classification problems
+
+* Implement alternate activation functions (ReLU, Sigmoid)
+
+**👨‍💻 Authors**
+
 Chao-Jia Liu – chao-jia.liu@my.utsa.edu
 
-Abdulaziz Alshehri – abdulaziz.alshehri@my.utsa.edu
-
 Department of Electrical and Computer Engineering
+
 The University of Texas at San Antonio
