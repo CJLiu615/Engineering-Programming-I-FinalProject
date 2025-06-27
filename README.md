@@ -5,6 +5,7 @@ This project implements a neural network from scratch in C++, without using any 
 The neural network is trained to perform the Exclusive OR (XOR) function, and supports adjustable topology and training epochs to observe performance trends.
 
 **🧠 Project Highlights**
+
 Built entirely in C++ from the ground up
 
 Simulates feedforward and backpropagation learning
@@ -15,7 +16,8 @@ Visual performance metrics using Gnuplot
 
 Fully modular class design for neurons, layers, training data, and network
 
-📦 Features
+**📦 Features**
+
 Implemented classes:
 
 TrainingData: manages dynamic XOR input generation and network configuration
