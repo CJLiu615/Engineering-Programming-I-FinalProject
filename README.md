@@ -20,21 +20,21 @@ The neural network is trained to perform the Exclusive OR (XOR) function, and su
 
 Implemented classes:
 
-TrainingData: manages dynamic XOR input generation and network configuration
+* TrainingData: manages dynamic XOR input generation and network configuration
 
-Neuron: defines weights, activations, gradients, and learning updates
+* Neuron: defines weights, activations, gradients, and learning updates
 
-Net: links neurons across layers and manages training logic
+* Net: links neurons across layers and manages training logic
 
 Tracks:
 
-Net recent error
+* Net recent error
 
-Average error for Target 0 and 1
+* Average error for Target 0 and 1
 
-Overall average error
+* Overall average error
 
-Recent accuracy
+* Recent accuracy
 
 Supports user input inference (post-training)
 
