@@ -1,6 +1,6 @@
 **Neural Network from Scratch in C++**
 
-This project implements a neural network entirely from scratch in C++, without using any external machine learning libraries. It focuses on understanding core principles of neural networks, building all components manually, and visualizing training performance using Gnuplot.
+This project implements a neural network from scratch in C++, without using any external machine learning libraries. It focuses on understanding core principles of neural networks, building all components manually, and visualizing training performance using Gnuplot.
 
 The neural network is trained to perform the Exclusive OR (XOR) function, and supports adjustable topology and training epochs to observe performance trends.
 
