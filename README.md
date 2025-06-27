@@ -40,24 +40,22 @@ The neural network is trained to perform the Exclusive OR (XOR) function, and su
 
 * Epoch and architecture-based performance comparison
 
-🏗️ Network Architecture
+**🏗️ Network Architecture**
+
 Example topology:
 
-scss
-Copy
-Edit
 Input Layer (2 neurons + bias)
 ↓
 Hidden Layer(s) (e.g., 4 neurons + bias per layer)
 ↓
 Output Layer (1 neuron)
+
 Topology can be modified with:
 
-cpp
-Copy
-Edit
 std::vector<unsigned> topology = {2, 4, 4, 1};
-📈 Visualization
+
+**📈 Visualization**
+
 Performance trends are graphed using Gnuplot and include:
 
 Training error vs. epoch
