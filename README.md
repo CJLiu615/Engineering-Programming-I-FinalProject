@@ -20,11 +20,11 @@ The neural network is trained to perform the Exclusive OR (XOR) function, and su
 
 Implemented classes:
 
-* TrainingData: manages dynamic XOR input generation and network configuration
+** TrainingData: manages dynamic XOR input generation and network configuration
 
-* Neuron: defines weights, activations, gradients, and learning updates
+** Neuron: defines weights, activations, gradients, and learning updates
 
-* Net: links neurons across layers and manages training logic
+** Net: links neurons across layers and manages training logic
 
 Tracks:
 
