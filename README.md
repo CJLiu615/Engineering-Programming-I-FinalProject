@@ -76,8 +76,6 @@ Performance trends are graphed using Gnuplot and include:
 
 **📁 Project Structure**
 
-.
-
 ├── src/                    
 All class definitions (Net, Neuron, TrainingData)
 
