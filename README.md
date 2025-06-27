@@ -77,16 +77,22 @@ Performance trends are graphed using Gnuplot and include:
 **📁 Project Structure**
 
 .
+
 ├── src/                    
 All class definitions (Net, Neuron, TrainingData)
+
 ├── data/                   
 Training samples (if extended to external files)
+
 ├── plots/                  
 Gnuplot scripts and generated images
+
 ├── main.cpp               
 Entry point and network execution logic
+
 ├── Makefile                
 For building on Unix systems
+
 └── README.md
 
 ▶️ How to Run
