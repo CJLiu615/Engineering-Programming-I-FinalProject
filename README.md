@@ -6,15 +6,15 @@ The neural network is trained to perform the Exclusive OR (XOR) function, and su
 
 **🧠 Project Highlights**
 
-*Built entirely in C++ from the ground up
+* Built entirely in C++ from the ground up
 
-*Simulates feedforward and backpropagation learning
+* Simulates feedforward and backpropagation learning
 
-*Dynamically configurable topologies: e.g., {2, 4, 1}, {2, 4, 4, 1}, etc.
+* Dynamically configurable topologies: e.g., {2, 4, 1}, {2, 4, 4, 1}, etc.
 
-*Visual performance metrics using Gnuplot
+* Visual performance metrics using Gnuplot
 
-*Fully modular class design for neurons, layers, training data, and network
+* Fully modular class design for neurons, layers, training data, and network
 
 **📦 Features**
 
