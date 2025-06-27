@@ -58,32 +58,37 @@ std::vector<unsigned> topology = {2, 4, 4, 1};
 
 Performance trends are graphed using Gnuplot and include:
 
-Training error vs. epoch
+* Training error vs. epoch
 
-Comparison across different topologies
+* Comparison across different topologies
 
-Effects of increasing hidden layers or epochs
+* Effects of increasing hidden layers or epochs
 
-Inference results under various configurations
+* Inference results under various configurations
 
-🔧 Tools Used
-C++ (tested with Cygwin, Sublime Text, Xcode)
+**🔧 Tools Used**
 
-Gnuplot (via Cygwin integration)
+* C++ (tested with Cygwin, Sublime Text, Xcode)
 
-Standard C++ libraries only (no external ML libraries)
+* Gnuplot (via Cygwin integration)
 
-📁 Project Structure
-bash
-Copy
-Edit
+* Standard C++ libraries only (no external ML libraries)
+
+**📁 Project Structure**
+
 .
-├── src/                    # All class definitions (Net, Neuron, TrainingData)
-├── data/                   # Training samples (if extended to external files)
-├── plots/                  # Gnuplot scripts and generated images
-├── main.cpp                # Entry point and network execution logic
-├── Makefile                # For building on Unix systems
+├── src/                    
+# All class definitions (Net, Neuron, TrainingData)
+├── data/                   
+# Training samples (if extended to external files)
+├── plots/                  
+# Gnuplot scripts and generated images
+├── main.cpp               
+# Entry point and network execution logic
+├── Makefile                
+# For building on Unix systems
 └── README.md
+
 ▶️ How to Run
 Compile:
 
