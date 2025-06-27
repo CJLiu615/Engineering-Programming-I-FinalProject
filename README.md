@@ -93,27 +93,9 @@ For building on Unix systems
 
 └── README.md
 
-**▶️ How to Run**
 
-Compile:
+**📊 Sample Output (for XOR)**
 
-bash
-Copy
-Edit
-g++ -o xor_nn main.cpp -std=c++11
-Run:
-
-bash
-Copy
-Edit
-./xor_nn
-To plot graphs (ensure Gnuplot is installed):
-
-bash
-Copy
-Edit
-gnuplot plot_error.gp
-📊 Sample Output (for XOR)
 Input A	Input B	Target	Output
 0	0	0	0.01
 1	0	1	0.94
