@@ -53,6 +53,8 @@ Hidden Layer(s) (e.g., 4 neurons + bias per layer)
 ↓
 Output Layer (1 neuron)
 
+![image](https://github.com/user-attachments/assets/85f61809-3fc0-42c3-8955-31a37061456e)
+
 Topology can be modified with:
 
 std::vector<unsigned> topology = {2, 4, 4, 1};
